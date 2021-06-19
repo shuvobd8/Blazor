@@ -29,6 +29,7 @@ namespace Connection_Blazor
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddSingleton<IConfiguration>(Configuration);
             
         }
 
