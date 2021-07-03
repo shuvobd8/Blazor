@@ -1,7 +1,45 @@
-﻿@page "/"
+﻿@page "/Index"
+@*<h1>Hello, world!</h1>
 
-<h1>Hello, world!</h1>
+    Welcome to your new app.
 
-Welcome to your new app.
+    <SurveyPrompt Title="How is Blazor working for you?" />*@
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+<h2 class="active border-1">
+    One Way Data Binding
+</h2>
+
+@Room.ID
+<br />
+@Room.Name
+<br />
+@Room.Address
+<br />
+@Room.Email
+<br />
+@Room.Phone
+<br />
+
+<input type="text" @bind="@Room.Name"/>
+
+<input type="number" @bind="@Room.ID"/>
+
+ 
+
+
+
+@code{
+
+    BlaroRoom Room = new BlaroRoom()
+    {
+        ID = 01,
+        Name = "joherulhoq",
+        Address = "Dhaka",
+        Email = "joherulhoq@gmail.com",
+        Phone = 01876473517,
+
+
+
+    };
+
+}

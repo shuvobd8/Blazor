@@ -82,7 +82,42 @@ using Connection_Blazor.Data;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
+#nullable restore
+#line 11 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Data.Model;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Propertis;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Method;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Design;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/Index")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,6 +125,26 @@ using Connection_Blazor.Data;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 31 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\Pages\Index.razor"
+      
+
+    BlaroRoom Room = new BlaroRoom()
+    {
+        ID = 01,
+        Name = "joherulhoq",
+        Address = "Dhaka",
+        Email = "joherulhoq@gmail.com",
+        Phone = 01876473517,
+
+
+
+    };
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

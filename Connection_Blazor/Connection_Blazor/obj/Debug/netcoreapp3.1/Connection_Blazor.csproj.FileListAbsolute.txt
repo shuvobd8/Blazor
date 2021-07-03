@@ -76,3 +76,11 @@ E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\bin\Debug\ne
 E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddCustomer.razor.g.cs
 E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\Razor\Pages\AddCustomer.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\View Data.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\Razor\Pages\View Data.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\DemoHotel.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\Razor\Pages\DemoHotel.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Design\Emaployee.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\Razor\Design\Emaployee.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Design\Binding Data.razor.g.cs
+E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\obj\Debug\netcoreapp3.1\Razor\Design\Binding Data.razor.g.cs

@@ -82,6 +82,41 @@ using Connection_Blazor.Data;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Data.Model;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Propertis;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Method;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Design;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +125,7 @@ using Connection_Blazor.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\Shared\NavMenu.razor"
+#line 43 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

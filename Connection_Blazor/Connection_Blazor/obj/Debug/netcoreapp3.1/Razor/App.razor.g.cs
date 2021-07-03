@@ -79,6 +79,41 @@ using Connection_Blazor.Data;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Data.Model;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Propertis;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Method;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "E:\E Drive File\ASP. NET\Blazor\Connection_Blazor\Connection_Blazor\_Imports.razor"
+using Connection_Blazor.Design;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

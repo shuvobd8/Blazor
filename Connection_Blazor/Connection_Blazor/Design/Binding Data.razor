@@ -1,0 +1,60 @@
+﻿@page "/Binding Data"
+@inherits Method.Binding
+
+<h3>Binding_Data</h3>
+
+
+<form>
+    <div>One way data Binding</div>
+
+    <table border="1">
+
+        <tr>
+            <th>@details.Id</th>
+
+            <th>@details.Name</th>
+
+            <th>@details.Address</th>
+
+            <th>@details.Email</th>
+
+        </tr>
+
+    </table>
+
+    <input type="text" value="@details.Id" />
+    <input type="text" value="@details.Name" />
+
+
+    <h1 style="text-align:center">Two way Data Binding</h1>
+
+    <div>
+        <input type="text" @bind="@details.Name" />
+        <input type="text" @bind="@details.Address" />
+
+    </div>
+
+
+    <div>
+        <input type="text" @bind-value="@details.Address" />
+        <input type="text" @bind-value="@details.Email" />
+    </div>
+   
+
+</form>
+
+
+
+
+
+
+
+
+
+@code {
+   
+
+
+
+
+}

@@ -1,0 +1,34 @@
+﻿@page "/View Data"
+<h3>View_Data</h3>
+
+<label for="Name" class="control-label">Show</label>
+
+
+<div>
+
+    @foreach (var item in viewsall)
+    {
+        <table>
+            <tr>@item.Name</tr>
+        </table>
+    }
+
+</div>
+
+
+
+
+@code {
+    view v = new view();
+
+    List<Employee> viewsall = new List<Employee>();
+
+    public void data()
+    {
+
+        v.show();
+
+    }
+
+
+}

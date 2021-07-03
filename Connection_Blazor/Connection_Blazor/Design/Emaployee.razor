@@ -1,0 +1,31 @@
+﻿@page "/Emaployee"
+@inherits Method.EmpMethod
+
+
+<h3>Emaployee</h3>
+
+<table border="2">
+    <tr>
+       <th>ID</th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (var item in name)
+    {
+        <tr>
+            <td>@item.Id</td>
+
+            <td>@item.Name</td>
+            
+        </tr>
+    }
+
+
+</table>
+
+
+@code {
+
+
+
+}
